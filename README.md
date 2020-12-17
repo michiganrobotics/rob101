@@ -17,6 +17,9 @@ And [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture
 ## Textbook
 The textbook, [Notes for Computational Linear Algebra](https://github.com/michiganrobotics/rob101/blob/main/ROB_101_ComputationalLinearAlgebra_Grizzle_2020_12_15.pdf), continues to be updated.
 
+## Projects
+Three main projects that accompany the course are [available here](https://github.com/michiganrobotics/rob101/tree/main/Projects).
+
 ## Credits
 - Chad Jenkins, Associate Director of Undergraduate Programs
 - Jessy Grizzle, Director
