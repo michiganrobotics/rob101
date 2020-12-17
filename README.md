@@ -65,7 +65,7 @@ Three main projects that accompany the course are [available here](https://githu
 
 ## Credits
 - Chad Jenkins, Associate Director of Undergraduate Programs, Michigan Robotics
-- Jessy Grizzle, Director of Michigan Robotics
+- Jessy Grizzle, Director, Michigan Robotics
 - Maani Ghaffari, Assistant Professor, Naval and Marine Architecture, U-M
 - Kira Biener
 - Tribhi Kathuria
