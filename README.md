@@ -20,6 +20,49 @@ The textbook, [Notes for Computational Linear Algebra](https://github.com/michig
 ## Projects
 Three main projects that accompany the course are [available here](https://github.com/michiganrobotics/rob101/tree/main/Projects).
 
+## Course Plan
+| Lecture Number | Topic                            |
+|----------------|----------------------------------|
+|              1 | Introduction                     |
+|              2 | Linear Equations & Matrices      |
+|              3 | Matrix Determinant               |
+|              4 | Determinant & Triangular Systems |
+|              5 | Triangular Systems: Substitution |
+|              6 | Matrix Multiplication            |
+|              7 | Matrix Multiplication II         |
+|              8 | LU Factorization                 |
+|              9 | LU Factorization II              |
+|             10 | Matrix Transpose & Inverse       |
+|             11 | Vector Space R^n                 |
+|             12 | Linear Independence              |
+|             13 | Linear Independence II           |
+|             14 | Linear Independence III          |
+|             15 | Linear Independence IV           |
+|             16 | Norm of a Vector                 |
+|             17 | Least Squares                    |
+|             18 | Subspaces                        |
+|             19 | Subspaces II                     |
+|             20 | Rank & Nullity of a Matrix       |
+|             21 | Dot Product & Orthogonal Vectors |
+|             22 | Orthonormal Vectors              |
+|             23 | QR Factorization                 |
+|             24 | Roots of Nonlinear Equations     |
+|             25 | Bisection Algorithm              |
+|             26 | Newton's Method                  |
+|             27 | Partial Derivatives & Roots      |
+|             28 | Gradient & the Jacobian          |
+|             29 | Newton-Raphson Algorithm         |
+|             30 | Optimization                     |
+|             31 | Gradient Descent                 |
+|             32 | Optimization II                  |
+|             33 | Affine Spaces                    |
+|             34 | Hyperplanes                      |
+|             35 | Quadratic Program                |
+|             36 | Quadratic Program II             |
+|             37 | Complex Numbers                  |
+|             38 | Eigenvalues & Eigenvectors       |
+|             39 | Final class & convolution        |
+
 ## Credits
 - Chad Jenkins, Associate Director of Undergraduate Programs
 - Jessy Grizzle, Director
