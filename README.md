@@ -1,6 +1,12 @@
 # Robotics 101: Computational Linear Algebra
 
-Computational Linear Algebra is a pilot first-semester, first-year undergraduate course that will show how mathematics and computation are unified for reasoning about data and making discoveries about the world.
+Computational Linear Algebra is a pilot first-semester, first-year undergraduate course that shows how mathematics and computation are unified for reasoning about data and making discoveries about the world.
+
+This course ran in Fall 2020 at the University of Michigan Robotics Institute.
+
+Engineering math education is stuck in the Sputnik era: we force students to do four semesters of calculus before they can do anything interesting in engineering. ROB 101 seeks to break through with new ideas. Students will see how engineers are using mathematics and computing to solve large and important problems. Students will still do drill problems to firm up concepts with teeny tiny problems with two or three variables, but they will also solve problems in the Julia programming language with hundreds of variables.
+
+Students will have a palpable understanding that computation and mathematics are friends, instead of hoops to be jumped through on the way to a degree.
 
 ## Lecture videos
 All lecture videos are available on YouTube:  
