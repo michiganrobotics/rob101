@@ -64,9 +64,9 @@ Three main projects that accompany the course are [available here](https://githu
 |             39 | Final class & convolution        |
 
 ## Credits
-- Chad Jenkins, Associate Director of Undergraduate Programs
-- Jessy Grizzle, Director
-- Maani Ghaffari
+- Chad Jenkins, Associate Director of Undergraduate Programs, Michigan Robotics
+- Jessy Grizzle, Director of Michigan Robotics
+- Maani Ghaffari, Assistant Professor, Naval and Marine Architecture, U-M
 - Kira Biener
 - Tribhi Kathuria
 - Madhav Achar
