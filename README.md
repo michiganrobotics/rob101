@@ -46,7 +46,7 @@ Three main projects that accompany the course are [available here](https://githu
 | 21      | Dot Product & Orthogonal Vectors | [Video](https://www.youtube.com/watch?v=kFW1c9LbHSQ&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=21) |
 | 22      | Orthonormal Vectors              | [Video](https://www.youtube.com/watch?v=ZF6qyIuk1jo&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=22) |
 | 23      | QR Factorization                 | [Video](https://www.youtube.com/watch?v=wWBqstOQyg8&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=23) |
-| 24      | Roots of Nonlinear Equations     | [Video](https://www.youtube.com/watch?v=fyI290RVtW4&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=24) |
+| 24      | Orthogonal Matrices & Roots of Nonlinear Equations    | [Video](https://www.youtube.com/watch?v=fyI290RVtW4&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=24) |
 | 25      | Bisection Algorithm              | [Video](https://www.youtube.com/watch?v=1h40va8YeSQ&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=25) |
 | 26      | Newton's Method                  | [Video](https://www.youtube.com/watch?v=DKovRqflvJA&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=26) |
 | 27      | Partial Derivatives & Roots      | [Video](https://www.youtube.com/watch?v=dmJDDcu0DP8&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=27) |
