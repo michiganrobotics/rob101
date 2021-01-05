@@ -8,7 +8,7 @@ Engineering math education is stuck in the Sputnik era: we force students to do 
 
 Students will have a palpable understanding that computation and mathematics are friends, instead of hoops to be jumped through on the way to a degree.
 
-## Lecture & Recitation videos
+## Lecture & Recitation Videos
 All lecture and recitation videos are available on YouTube:  
 [ROB 101 Videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv)  
 
