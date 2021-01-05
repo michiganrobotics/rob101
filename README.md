@@ -8,9 +8,9 @@ Engineering math education is stuck in the Sputnik era: we force students to do 
 
 Students will have a palpable understanding that computation and mathematics are friends, instead of hoops to be jumped through on the way to a degree.
 
-## Lecture videos
-All lecture videos are available on YouTube:  
-[ROB 101 Lecture Videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv)  
+## Lecture & recitation videos
+All lecture and recitation videos are available on YouTube:  
+[ROB 101 Videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv)  
 
 And [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture%20Notes) here.
 
@@ -73,6 +73,9 @@ Three main projects that accompany the course are [available here](https://githu
 | 37      | Complex Numbers                                                    | [Video](https://www.youtube.com/watch?v=SOUc7FB79-4&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=48) | B.1.4                    |                                                                                          |
 | 38      | Eigenvalues & Eigenvectors                                         | [Video](https://www.youtube.com/watch?v=ojd4oklzEE8&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=49) | B.1.4 - B.1.5            |                                                                                          |
 | 39      | Final class & convolution                                          | [Video](https://www.youtube.com/watch?v=jpMDhDFsrp4&list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv&index=50) | Not yet in book.         | [Project 3](https://github.com/michiganrobotics/rob101/tree/main/Projects/Project-03)    |
+
+## Course Evaluation
+Students thoughts on the course for Fall 2020 can be read in the [teaching evaluations](https://github.com/michiganrobotics/rob101/tree/main/Teaching%20Evaluations).
 
 ## Credits
 - Chad Jenkins, Associate Director of Undergraduate Programs, Michigan Robotics
