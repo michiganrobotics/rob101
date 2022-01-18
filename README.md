@@ -9,8 +9,8 @@ Linear algebra and coding are rapidly becoming an essential foundation for the m
 Math is the language of engineering, but coding is believing and realizing it. The mathematical content of ROB 101 is built around systems of linear equations, their representation as matrices, and numerical methods for their analysis. These methods will be given life through the lens of robotics and contemporary intelligent systems and their compelling applications.
 
 The entire course is available for the terms:
-- [Fall 2020](https://github.com/michiganrobotics/rob101/tree/rob101-fall-2021/Fall%202020)
-- [Fall 2021](https://github.com/michiganrobotics/rob101/tree/rob101-fall-2021/Fall%202021)
+- [Fall 2020](https://github.com/michiganrobotics/rob101/tree/main/Fall%202020)
+- [Fall 2021](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021)
 
 ## Lecture, Recitation, and Lab Videos
 All lecture, recitation, and lab videos are available on YouTube:  
