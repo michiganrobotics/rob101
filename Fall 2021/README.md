@@ -21,7 +21,7 @@ And [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Fall%20
 Lab videos may also contain recitation sections.
 
 ## Textbook
-The textbook, [Notes for Computational Linear Algebra](https://github.com/michiganrobotics/rob101/blob/main/Textbook/ROB_101_F_21_Grizzle-29November2021.pdf), continues to be updated.
+The textbook, [Notes for Computational Linear Algebra](https://github.com/michiganrobotics/rob101/blob/main/Fall%202021/Textbook/ROB_101_December_2021_Grizzle.pdf), continues to be updated.
 
 ## Projects
 Three main projects that accompany the course are [available here](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021/Projects/).
