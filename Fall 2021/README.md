@@ -10,7 +10,7 @@ The entire course is available for the terms:
 - [Fall 2020](https://github.com/michiganrobotics/rob101/tree/main/Fall%202020)
 - [Fall 2021](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021)
 
-The links below are for the Fall 2021 term.
+The links below are for the **Fall 2021** term.
 
 ## Lecture & Lab Videos
 All lecture and lab videos are available on YouTube:  
