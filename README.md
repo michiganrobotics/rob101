@@ -48,6 +48,11 @@ Students thoughts on the courses can be read in the teaching evaluations.
 - Lu Gan
 - Ray Zhang
 
+## License
+All code is licensed under the [GNU General Public License v3.0](https://github.com/michiganrobotics/rob101/blob/main/LICENSE).
+
+All other content, including textbooks, homeworks, and video, is licensed under the [Creative Commons Attribution-NonCommericial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ## For more
 - [ROB 101 Course Information for those at U-M](https://robotics.umich.edu/academic-program/course-offerings/rob101/)
 - [University of Michigan Robotics](https://robotics.umich.edu)
