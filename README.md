@@ -13,7 +13,7 @@ The entire course is available for the terms:
 - [Fall 2021](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021)
 
 And the homework and projects:
-- [Fall 2022 & Winter 2023]
+- [Fall 2022 & Winter 2023](https://github.com/michiganrobotics/rob101/tree/main/Fall%202022%20%26%20Winter%202023)
 
 ## Lecture, Recitation, and Lab Videos
 All lecture, recitation, and lab videos are available on YouTube:  
